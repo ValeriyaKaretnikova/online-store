@@ -18,7 +18,7 @@ export const products = [
       mimetype: 'image/jpeg',
       encoding: '7bit',
       _meta: {
-        public_id: 'sick-fits-keystone/5dfbed262849d7961377c2c0',
+        public_id: 'chichi-fits-keystone/5dfbed262849d7961377c2c0',
         version: 1576791335,
         signature: '9f7d5115788b7677307a39214f9684dd827ea5f9',
         width: 750,
@@ -31,10 +31,9 @@ export const products = [
         type: 'upload',
         etag: 'e1fdf84d5126b6ca2e1c8ef9532be5a5',
         placeholder: false,
-        url:
-          'http://res.cloudinary.com/wesbos/image/upload/v1576791335/sick-fits-keystone/5dfbed262849d7961377c2c0.jpg',
+        url: 'http://res.cloudinary.com/wesbos/image/upload/v1576791335/chichi-fits-keystone/5dfbed262849d7961377c2c0.jpg',
         secure_url:
-          'https://res.cloudinary.com/wesbos/image/upload/v1576791335/sick-fits-keystone/5dfbed262849d7961377c2c0.jpg',
+          'https://res.cloudinary.com/wesbos/image/upload/v1576791335/chichi-fits-keystone/5dfbed262849d7961377c2c0.jpg',
         original_filename: 'file',
       },
     },
@@ -57,7 +56,7 @@ export const products = [
       mimetype: 'image/jpeg',
       encoding: '7bit',
       _meta: {
-        public_id: 'sick-fits-keystone/5e2a13f0689b2835ae71d1a5',
+        public_id: 'chichi-fits-keystone/5e2a13f0689b2835ae71d1a5',
         version: 1579815920,
         signature: 'a430b2d35f6a03dc562f6f56a474deb6810e393f',
         width: 960,
@@ -70,10 +69,9 @@ export const products = [
         type: 'upload',
         etag: 'aebe8e9cc98ee4ad71682f19af85745b',
         placeholder: false,
-        url:
-          'http://res.cloudinary.com/wesbos/image/upload/v1579815920/sick-fits-keystone/5e2a13f0689b2835ae71d1a5.jpg',
+        url: 'http://res.cloudinary.com/wesbos/image/upload/v1579815920/chichi-fits-keystone/5e2a13f0689b2835ae71d1a5.jpg',
         secure_url:
-          'https://res.cloudinary.com/wesbos/image/upload/v1579815920/sick-fits-keystone/5e2a13f0689b2835ae71d1a5.jpg',
+          'https://res.cloudinary.com/wesbos/image/upload/v1579815920/chichi-fits-keystone/5e2a13f0689b2835ae71d1a5.jpg',
         original_filename: 'file',
       },
     },
@@ -96,7 +94,7 @@ export const products = [
       mimetype: 'image/jpeg',
       encoding: '7bit',
       _meta: {
-        public_id: 'sick-fits-keystone/5e2a13ff689b2835ae71d1a7',
+        public_id: 'chichi-fits-keystone/5e2a13ff689b2835ae71d1a7',
         version: 1579815935,
         signature: '360df116020320a14845cf235b87a4a5cdc23f86',
         width: 2000,
@@ -109,10 +107,9 @@ export const products = [
         type: 'upload',
         etag: 'b6fbc18b196c68e2b87f51539b849e70',
         placeholder: false,
-        url:
-          'http://res.cloudinary.com/wesbos/image/upload/v1579815935/sick-fits-keystone/5e2a13ff689b2835ae71d1a7.jpg',
+        url: 'http://res.cloudinary.com/wesbos/image/upload/v1579815935/chichi-fits-keystone/5e2a13ff689b2835ae71d1a7.jpg',
         secure_url:
-          'https://res.cloudinary.com/wesbos/image/upload/v1579815935/sick-fits-keystone/5e2a13ff689b2835ae71d1a7.jpg',
+          'https://res.cloudinary.com/wesbos/image/upload/v1579815935/chichi-fits-keystone/5e2a13ff689b2835ae71d1a7.jpg',
         original_filename: 'file',
       },
     },
@@ -135,7 +132,7 @@ export const products = [
       mimetype: 'image/png',
       encoding: '7bit',
       _meta: {
-        public_id: 'sick-fits-keystone/5e2a1413689b2835ae71d1a9',
+        public_id: 'chichi-fits-keystone/5e2a1413689b2835ae71d1a9',
         version: 1579815957,
         signature: 'affd16fa20107a4d5399aab553ea77fff1c4b2ef',
         width: 1276,
@@ -148,10 +145,9 @@ export const products = [
         type: 'upload',
         etag: 'ce0f36da93c60c5d4406657225206f70',
         placeholder: false,
-        url:
-          'http://res.cloudinary.com/wesbos/image/upload/v1579815957/sick-fits-keystone/5e2a1413689b2835ae71d1a9.png',
+        url: 'http://res.cloudinary.com/wesbos/image/upload/v1579815957/chichi-fits-keystone/5e2a1413689b2835ae71d1a9.png',
         secure_url:
-          'https://res.cloudinary.com/wesbos/image/upload/v1579815957/sick-fits-keystone/5e2a1413689b2835ae71d1a9.png',
+          'https://res.cloudinary.com/wesbos/image/upload/v1579815957/chichi-fits-keystone/5e2a1413689b2835ae71d1a9.png',
         original_filename: 'file',
       },
     },
@@ -174,7 +170,7 @@ export const products = [
       mimetype: 'image/jpeg',
       encoding: '7bit',
       _meta: {
-        public_id: 'sick-fits-keystone/5e2a142c689b2835ae71d1ab',
+        public_id: 'chichi-fits-keystone/5e2a142c689b2835ae71d1ab',
         version: 1579815980,
         signature: '6dd95447407c06ba955164c4961bd4abc2fb9f4d',
         width: 1100,
@@ -187,10 +183,9 @@ export const products = [
         type: 'upload',
         etag: '5550566c7fab113ba32d85ed08f54faa',
         placeholder: false,
-        url:
-          'http://res.cloudinary.com/wesbos/image/upload/v1579815980/sick-fits-keystone/5e2a142c689b2835ae71d1ab.jpg',
+        url: 'http://res.cloudinary.com/wesbos/image/upload/v1579815980/chichi-fits-keystone/5e2a142c689b2835ae71d1ab.jpg',
         secure_url:
-          'https://res.cloudinary.com/wesbos/image/upload/v1579815980/sick-fits-keystone/5e2a142c689b2835ae71d1ab.jpg',
+          'https://res.cloudinary.com/wesbos/image/upload/v1579815980/chichi-fits-keystone/5e2a142c689b2835ae71d1ab.jpg',
         original_filename: 'file',
       },
     },
@@ -213,7 +208,7 @@ export const products = [
       mimetype: 'image/jpeg',
       encoding: '7bit',
       _meta: {
-        public_id: 'sick-fits-keystone/5e2a143f689b2835ae71d1ad',
+        public_id: 'chichi-fits-keystone/5e2a143f689b2835ae71d1ad',
         version: 1579815999,
         signature: '97e8f27cdbb6a736062391b9ac3a5c689bd50646',
         width: 1300,
@@ -226,10 +221,9 @@ export const products = [
         type: 'upload',
         etag: '3655bfd83998492b8421782db868c9df',
         placeholder: false,
-        url:
-          'http://res.cloudinary.com/wesbos/image/upload/v1579815999/sick-fits-keystone/5e2a143f689b2835ae71d1ad.jpg',
+        url: 'http://res.cloudinary.com/wesbos/image/upload/v1579815999/chichi-fits-keystone/5e2a143f689b2835ae71d1ad.jpg',
         secure_url:
-          'https://res.cloudinary.com/wesbos/image/upload/v1579815999/sick-fits-keystone/5e2a143f689b2835ae71d1ad.jpg',
+          'https://res.cloudinary.com/wesbos/image/upload/v1579815999/chichi-fits-keystone/5e2a143f689b2835ae71d1ad.jpg',
         original_filename: 'file',
       },
     },
@@ -252,7 +246,7 @@ export const products = [
       mimetype: 'image/jpeg',
       encoding: '7bit',
       _meta: {
-        public_id: 'sick-fits-keystone/5e2a145d689b2835ae71d1af',
+        public_id: 'chichi-fits-keystone/5e2a145d689b2835ae71d1af',
         version: 1579816030,
         signature: '76dec3670cc4a4c22723720bb94496a35945c626',
         width: 1024,
@@ -265,10 +259,9 @@ export const products = [
         type: 'upload',
         etag: '3d68591332785ae5273ed43b1aa91712',
         placeholder: false,
-        url:
-          'http://res.cloudinary.com/wesbos/image/upload/v1579816030/sick-fits-keystone/5e2a145d689b2835ae71d1af.jpg',
+        url: 'http://res.cloudinary.com/wesbos/image/upload/v1579816030/chichi-fits-keystone/5e2a145d689b2835ae71d1af.jpg',
         secure_url:
-          'https://res.cloudinary.com/wesbos/image/upload/v1579816030/sick-fits-keystone/5e2a145d689b2835ae71d1af.jpg',
+          'https://res.cloudinary.com/wesbos/image/upload/v1579816030/chichi-fits-keystone/5e2a145d689b2835ae71d1af.jpg',
         original_filename: 'file',
       },
     },
@@ -291,7 +284,7 @@ export const products = [
       mimetype: 'image/png',
       encoding: '7bit',
       _meta: {
-        public_id: 'sick-fits-keystone/5e2a147b689b2835ae71d1b1',
+        public_id: 'chichi-fits-keystone/5e2a147b689b2835ae71d1b1',
         version: 1579816060,
         signature: 'a6161568d2d59a59e8dba9b15e705581198ea377',
         width: 800,
@@ -304,10 +297,9 @@ export const products = [
         type: 'upload',
         etag: 'd89ab8ecc366bc63464a3eeef6ef3010',
         placeholder: false,
-        url:
-          'http://res.cloudinary.com/wesbos/image/upload/v1579816060/sick-fits-keystone/5e2a147b689b2835ae71d1b1.png',
+        url: 'http://res.cloudinary.com/wesbos/image/upload/v1579816060/chichi-fits-keystone/5e2a147b689b2835ae71d1b1.png',
         secure_url:
-          'https://res.cloudinary.com/wesbos/image/upload/v1579816060/sick-fits-keystone/5e2a147b689b2835ae71d1b1.png',
+          'https://res.cloudinary.com/wesbos/image/upload/v1579816060/chichi-fits-keystone/5e2a147b689b2835ae71d1b1.png',
         original_filename: 'file',
       },
     },
@@ -330,7 +322,7 @@ export const products = [
       mimetype: 'image/jpeg',
       encoding: '7bit',
       _meta: {
-        public_id: 'sick-fits-keystone/5e2a149b689b2835ae71d1b3',
+        public_id: 'chichi-fits-keystone/5e2a149b689b2835ae71d1b3',
         version: 1579816093,
         signature: '6ac148051cb4ba0227ee49fd61fa1348ab4a9870',
         width: 2000,
@@ -343,10 +335,9 @@ export const products = [
         type: 'upload',
         etag: '8aed0984d37a3d12faa832860b29d24b',
         placeholder: false,
-        url:
-          'http://res.cloudinary.com/wesbos/image/upload/v1579816093/sick-fits-keystone/5e2a149b689b2835ae71d1b3.jpg',
+        url: 'http://res.cloudinary.com/wesbos/image/upload/v1579816093/chichi-fits-keystone/5e2a149b689b2835ae71d1b3.jpg',
         secure_url:
-          'https://res.cloudinary.com/wesbos/image/upload/v1579816093/sick-fits-keystone/5e2a149b689b2835ae71d1b3.jpg',
+          'https://res.cloudinary.com/wesbos/image/upload/v1579816093/chichi-fits-keystone/5e2a149b689b2835ae71d1b3.jpg',
         original_filename: 'file',
       },
     },
@@ -359,7 +350,7 @@ export const products = [
   },
   {
     name: 'Nudie Belt',
-    description: 'Sick design',
+    description: 'chichi design',
     status: 'AVAILABLE',
     price: 5234,
     photo: {
@@ -369,7 +360,7 @@ export const products = [
       mimetype: 'image/jpeg',
       encoding: '7bit',
       _meta: {
-        public_id: 'sick-fits-keystone/5e2a14b1689b2835ae71d1b5',
+        public_id: 'chichi-fits-keystone/5e2a14b1689b2835ae71d1b5',
         version: 1579816114,
         signature: '24f3ff4ae91dfcc8d1ddeb1a713215730e834be4',
         width: 650,
@@ -382,10 +373,9 @@ export const products = [
         type: 'upload',
         etag: '3a4b97ef88c550dcd6c2d399d1bc698e',
         placeholder: false,
-        url:
-          'http://res.cloudinary.com/wesbos/image/upload/v1579816114/sick-fits-keystone/5e2a14b1689b2835ae71d1b5.jpg',
+        url: 'http://res.cloudinary.com/wesbos/image/upload/v1579816114/chichi-fits-keystone/5e2a14b1689b2835ae71d1b5.jpg',
         secure_url:
-          'https://res.cloudinary.com/wesbos/image/upload/v1579816114/sick-fits-keystone/5e2a14b1689b2835ae71d1b5.jpg',
+          'https://res.cloudinary.com/wesbos/image/upload/v1579816114/chichi-fits-keystone/5e2a14b1689b2835ae71d1b5.jpg',
         original_filename: 'file',
       },
     },
@@ -408,7 +398,7 @@ export const products = [
       mimetype: 'image/jpeg',
       encoding: '7bit',
       _meta: {
-        public_id: 'sick-fits-keystone/5e2a14bf689b2835ae71d1b7',
+        public_id: 'chichi-fits-keystone/5e2a14bf689b2835ae71d1b7',
         version: 1579816128,
         signature: 'bebf3d817e91cdbb91768e8c9c2133a78798a317',
         width: 800,
@@ -421,10 +411,9 @@ export const products = [
         type: 'upload',
         etag: 'f9c8725f815a6873cbdc47ba3f869049',
         placeholder: false,
-        url:
-          'http://res.cloudinary.com/wesbos/image/upload/v1579816128/sick-fits-keystone/5e2a14bf689b2835ae71d1b7.jpg',
+        url: 'http://res.cloudinary.com/wesbos/image/upload/v1579816128/chichi-fits-keystone/5e2a14bf689b2835ae71d1b7.jpg',
         secure_url:
-          'https://res.cloudinary.com/wesbos/image/upload/v1579816128/sick-fits-keystone/5e2a14bf689b2835ae71d1b7.jpg',
+          'https://res.cloudinary.com/wesbos/image/upload/v1579816128/chichi-fits-keystone/5e2a14bf689b2835ae71d1b7.jpg',
         original_filename: 'file',
       },
     },
@@ -447,7 +436,7 @@ export const products = [
       mimetype: 'image/jpeg',
       encoding: '7bit',
       _meta: {
-        public_id: 'sick-fits-keystone/5e2a14cc689b2835ae71d1b9',
+        public_id: 'chichi-fits-keystone/5e2a14cc689b2835ae71d1b9',
         version: 1579816141,
         signature: '18720c13b7f6d4fcde919dddb33d1c711a459c14',
         width: 565,
@@ -460,10 +449,9 @@ export const products = [
         type: 'upload',
         etag: '44cf57f8218f135b82cfa5df0da92a49',
         placeholder: false,
-        url:
-          'http://res.cloudinary.com/wesbos/image/upload/v1579816141/sick-fits-keystone/5e2a14cc689b2835ae71d1b9.jpg',
+        url: 'http://res.cloudinary.com/wesbos/image/upload/v1579816141/chichi-fits-keystone/5e2a14cc689b2835ae71d1b9.jpg',
         secure_url:
-          'https://res.cloudinary.com/wesbos/image/upload/v1579816141/sick-fits-keystone/5e2a14cc689b2835ae71d1b9.jpg',
+          'https://res.cloudinary.com/wesbos/image/upload/v1579816141/chichi-fits-keystone/5e2a14cc689b2835ae71d1b9.jpg',
         original_filename: 'file',
       },
     },
