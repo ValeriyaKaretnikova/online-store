@@ -1,0 +1,168 @@
+[{
+  "_id": {
+    "$oid": "640b938faba72f35106f02ea"
+  },
+  "name": "Test",
+  "description": "This is a test product.",
+  "__v": 0,
+  "price": 2500,
+  "status": "AVAILABLE",
+  "photo": {
+    "$oid": "640ba4d96c29924e10af33e3"
+  }
+},{
+  "_id": {
+    "$oid": "640bb2f84c06c353bc24cdf7"
+  },
+  "name": "Pink Purse",
+  "description": "small and handy",
+  "photo": {
+    "$oid": "640ba36535f3d14af4e6ba1b"
+  },
+  "status": "AVAILABLE",
+  "__v": 0,
+  "price": 5000
+},{
+  "_id": {
+    "$oid": "640bb3524c06c353bc24ce3f"
+  },
+  "name": "Beige Heels",
+  "description": "high heel shoes for the office or go out",
+  "photo": {
+    "$oid": "640bb24d4c06c353bc24cd70"
+  },
+  "status": "AVAILABLE",
+  "price": 100000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640bb38a4c06c353bc24ce64"
+  },
+  "name": "Light Pink Backpack",
+  "description": "for casual use, light and cute",
+  "photo": {
+    "$oid": "640bb2734c06c353bc24cd88"
+  },
+  "status": "AVAILABLE",
+  "price": 35000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640bb3cc4c06c353bc24cea0"
+  },
+  "name": "Faux Leather Backpack",
+  "description": "take me away",
+  "photo": {
+    "$oid": "640bb2984c06c353bc24cda0"
+  },
+  "status": "AVAILABLE",
+  "price": 47000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640bb4004c06c353bc24cee6"
+  },
+  "name": "Red Brick Pants",
+  "description": "this season summer hit",
+  "photo": {
+    "$oid": "640bb2c64c06c353bc24cdb8"
+  },
+  "status": "UNAVAILABLE",
+  "price": 26000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640bb4464c06c353bc24cf1b"
+  },
+  "name": "Summer Jumpsuit",
+  "description": "Green, light, sexy",
+  "photo": {
+    "$oid": "640bb4294c06c353bc24cf16"
+  },
+  "status": "AVAILABLE",
+  "price": 15000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640bb4884c06c353bc24cf44"
+  },
+  "name": "Blue Jeans",
+  "description": "must-have!",
+  "photo": {
+    "$oid": "640bb46e4c06c353bc24cf3f"
+  },
+  "status": "AVAILABLE",
+  "price": 50000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640bb4c24c06c353bc24cf6e"
+  },
+  "name": "Rainbow Sneakers",
+  "description": "light-weighted, super fancy",
+  "photo": {
+    "$oid": "640bb4ad4c06c353bc24cf69"
+  },
+  "status": "DRAFT",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640bb4fc4c06c353bc24cf99"
+  },
+  "name": "Brown Coat",
+  "description": "Look good in the rain!",
+  "photo": {
+    "$oid": "640bb4e54c06c353bc24cf94"
+  },
+  "status": "AVAILABLE",
+  "price": 25000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640bb55a4c06c353bc24cfd6"
+  },
+  "name": "White Sweater",
+  "description": "White is the way to look casually chichi",
+  "photo": {
+    "$oid": "640bb51f4c06c353bc24cfd1"
+  },
+  "status": "AVAILABLE",
+  "price": 53000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640bb5974c06c353bc24d003"
+  },
+  "name": "Beige Boots",
+  "description": "Cheer up",
+  "photo": {
+    "$oid": "640bb57a4c06c353bc24cffe"
+  },
+  "status": "AVAILABLE",
+  "price": 42000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640bb5d54c06c353bc24d031"
+  },
+  "name": "Flowered Heels",
+  "description": "Wanna have fun today?",
+  "photo": {
+    "$oid": "640bb5b84c06c353bc24d02c"
+  },
+  "status": "AVAILABLE",
+  "price": 85000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640bb6174c06c353bc24d072"
+  },
+  "name": "Jeans Shorts",
+  "description": "Short must-haves",
+  "photo": {
+    "$oid": "640bb5fb4c06c353bc24d06d"
+  },
+  "status": "AVAILABLE",
+  "price": 22000,
+  "__v": 0
+}]

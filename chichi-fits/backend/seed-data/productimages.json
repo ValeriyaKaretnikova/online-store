@@ -1,0 +1,519 @@
+[{
+  "_id": {
+    "$oid": "640ba36535f3d14af4e6ba1b"
+  },
+  "image": {
+    "id": {
+      "$oid": "640ba5b66c29924e10af3421"
+    },
+    "filename": "creative-headline-APNnyM36puU-unsplash.jpg",
+    "originalFilename": "creative-headline-APNnyM36puU-unsplash.jpg",
+    "mimetype": "image/jpeg",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "a46067ab8f81e645d176ca6e449bcac5",
+      "public_id": "chichifits/640ba5b66c29924e10af3421",
+      "version": 1678484918,
+      "version_id": "c26cb7252cd53a0a8393adda30fe027d",
+      "signature": "e5dcd860b25eec3a8e319d784bb695b52d8216e3",
+      "width": 6587,
+      "height": 4391,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2023-03-10T21:48:38Z",
+      "tags": [],
+      "bytes": 3929884,
+      "type": "upload",
+      "etag": "f97c362cd2bd55a6b069938293900cd3",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/dawha1f7x/image/upload/v1678484918/chichifits/640ba5b66c29924e10af3421.jpg",
+      "secure_url": "https://res.cloudinary.com/dawha1f7x/image/upload/v1678484918/chichifits/640ba5b66c29924e10af3421.jpg",
+      "folder": "chichifits",
+      "original_filename": "file",
+      "api_key": "736358766387195"
+    }
+  },
+  "altText": "Pink Purse",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640ba4d96c29924e10af33e3"
+  },
+  "image": {
+    "id": {
+      "$oid": "640ba4d36c29924e10af33e2"
+    },
+    "filename": "diana-light-nvQemFKRBUo-unsplash.jpg",
+    "originalFilename": "diana-light-nvQemFKRBUo-unsplash.jpg",
+    "mimetype": "image/jpeg",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "3fe75659d2a4ed9f835cc7566e972b44",
+      "public_id": "chichifits/640ba4d36c29924e10af33e2",
+      "version": 1678484693,
+      "version_id": "07af7ed8fc06d8349bac7e1793ce1ec1",
+      "signature": "aaa301c2445dcb6c6340b1d8e08eb3d3a366e00e",
+      "width": 3744,
+      "height": 4758,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2023-03-10T21:44:53Z",
+      "tags": [],
+      "bytes": 3625855,
+      "type": "upload",
+      "etag": "73cbfc9a472e5c5ac6112a3d6bec92f3",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/dawha1f7x/image/upload/v1678484693/chichifits/640ba4d36c29924e10af33e2.jpg",
+      "secure_url": "https://res.cloudinary.com/dawha1f7x/image/upload/v1678484693/chichifits/640ba4d36c29924e10af33e2.jpg",
+      "folder": "chichifits",
+      "original_filename": "file",
+      "api_key": "736358766387195"
+    }
+  },
+  "altText": "Teal Purse",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640bb24d4c06c353bc24cd70"
+  },
+  "image": {
+    "id": {
+      "$oid": "640bb24c4c06c353bc24cd6f"
+    },
+    "filename": "emily-pottiger-Zx76sbAndc0-unsplash.jpg",
+    "originalFilename": "emily-pottiger-Zx76sbAndc0-unsplash.jpg",
+    "mimetype": "image/jpeg",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "76b21457f2e5120f43fabcff82fb7322",
+      "public_id": "chichifits/640bb24c4c06c353bc24cd6f",
+      "version": 1678488137,
+      "version_id": "d2a5d36bf245dc574b4a52bbece4a1a2",
+      "signature": "c5d2092c4aa5ba81e8164c97364e3b100ad76373",
+      "width": 2880,
+      "height": 1920,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2023-03-10T22:42:17Z",
+      "tags": [],
+      "bytes": 525376,
+      "type": "upload",
+      "etag": "b26624d8e7b4b9cce2bbb4cc63ff25da",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/dawha1f7x/image/upload/v1678488137/chichifits/640bb24c4c06c353bc24cd6f.jpg",
+      "secure_url": "https://res.cloudinary.com/dawha1f7x/image/upload/v1678488137/chichifits/640bb24c4c06c353bc24cd6f.jpg",
+      "folder": "chichifits",
+      "original_filename": "file",
+      "api_key": "736358766387195"
+    }
+  },
+  "altText": "Beige Heels",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640bb2734c06c353bc24cd88"
+  },
+  "image": {
+    "id": {
+      "$oid": "640bb26e4c06c353bc24cd87"
+    },
+    "filename": "tamara-bellis-kGvBLcBGZpI-unsplash.jpg",
+    "originalFilename": "tamara-bellis-kGvBLcBGZpI-unsplash.jpg",
+    "mimetype": "image/jpeg",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "f2005db59224c03c1a199aedf0cd9b45",
+      "public_id": "chichifits/640bb26e4c06c353bc24cd87",
+      "version": 1678488175,
+      "version_id": "89111ffca0678f202bd01514657c3e4f",
+      "signature": "0e63ecebee1c94fb58348d6e4746d494e0041f86",
+      "width": 6016,
+      "height": 4000,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2023-03-10T22:42:55Z",
+      "tags": [],
+      "bytes": 6496538,
+      "type": "upload",
+      "etag": "6447fd5247544806a21ab833d3fbbc8d",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/dawha1f7x/image/upload/v1678488175/chichifits/640bb26e4c06c353bc24cd87.jpg",
+      "secure_url": "https://res.cloudinary.com/dawha1f7x/image/upload/v1678488175/chichifits/640bb26e4c06c353bc24cd87.jpg",
+      "folder": "chichifits",
+      "original_filename": "file",
+      "api_key": "736358766387195"
+    }
+  },
+  "altText": "Light Pink Backpack",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640bb2984c06c353bc24cda0"
+  },
+  "image": {
+    "id": {
+      "$oid": "640bb2954c06c353bc24cd9f"
+    },
+    "filename": "wiser-by-the-mile-3o-X8WJOP5E-unsplash.jpg",
+    "originalFilename": "wiser-by-the-mile-3o-X8WJOP5E-unsplash.jpg",
+    "mimetype": "image/jpeg",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "0abd43b4629e1fc4c50c5f99a6fbf51e",
+      "public_id": "chichifits/640bb2954c06c353bc24cd9f",
+      "version": 1678488212,
+      "version_id": "7814a883605659c2a90fb87ab99c908f",
+      "signature": "a9f3232a15d5a167ea8074d345c3b5b0658f1c0c",
+      "width": 4912,
+      "height": 7360,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2023-03-10T22:43:32Z",
+      "tags": [],
+      "bytes": 2265901,
+      "type": "upload",
+      "etag": "c7834f8625db4ff7a16c63603c815d64",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/dawha1f7x/image/upload/v1678488212/chichifits/640bb2954c06c353bc24cd9f.jpg",
+      "secure_url": "https://res.cloudinary.com/dawha1f7x/image/upload/v1678488212/chichifits/640bb2954c06c353bc24cd9f.jpg",
+      "folder": "chichifits",
+      "original_filename": "file",
+      "api_key": "736358766387195"
+    }
+  },
+  "altText": "Faux Leather Backpack",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640bb2c64c06c353bc24cdb8"
+  },
+  "image": {
+    "id": {
+      "$oid": "640bb2c44c06c353bc24cdb7"
+    },
+    "filename": "engin-akyurt-RSm7GBuMqos-unsplash.jpg",
+    "originalFilename": "engin-akyurt-RSm7GBuMqos-unsplash.jpg",
+    "mimetype": "image/jpeg",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "ef59f4434b837a1ae72365f478fbbcdf",
+      "public_id": "chichifits/640bb2c44c06c353bc24cdb7",
+      "version": 1678488258,
+      "version_id": "5217125f573348f26d17ae740a103777",
+      "signature": "be633d37670159f1d22d73b8ae9f694cc1da15d1",
+      "width": 3480,
+      "height": 3480,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2023-03-10T22:44:18Z",
+      "tags": [],
+      "bytes": 1670238,
+      "type": "upload",
+      "etag": "ee5bfe6cf842e55f3b0a2aa2080a709e",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/dawha1f7x/image/upload/v1678488258/chichifits/640bb2c44c06c353bc24cdb7.jpg",
+      "secure_url": "https://res.cloudinary.com/dawha1f7x/image/upload/v1678488258/chichifits/640bb2c44c06c353bc24cdb7.jpg",
+      "folder": "chichifits",
+      "original_filename": "file",
+      "api_key": "736358766387195"
+    }
+  },
+  "altText": "Red Brick Pants",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640bb4294c06c353bc24cf16"
+  },
+  "image": {
+    "id": {
+      "$oid": "640bb4274c06c353bc24cf15"
+    },
+    "filename": "raquel-gambin-kS3YkVtf85U-unsplash.jpg",
+    "originalFilename": "raquel-gambin-kS3YkVtf85U-unsplash.jpg",
+    "mimetype": "image/jpeg",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "6f38078a96a07573db3d5cc401f7e645",
+      "public_id": "chichifits/640bb4274c06c353bc24cf15",
+      "version": 1678488613,
+      "version_id": "9f0864b399fde4e6aa9d70ae264684e9",
+      "signature": "6aa1ec52f7d42cb380528388489c7cc238d1d955",
+      "width": 3024,
+      "height": 3656,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2023-03-10T22:50:13Z",
+      "tags": [],
+      "bytes": 1151877,
+      "type": "upload",
+      "etag": "1cdf26f02ac15b8e045c4f71f8e9eb35",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/dawha1f7x/image/upload/v1678488613/chichifits/640bb4274c06c353bc24cf15.jpg",
+      "secure_url": "https://res.cloudinary.com/dawha1f7x/image/upload/v1678488613/chichifits/640bb4274c06c353bc24cf15.jpg",
+      "folder": "chichifits",
+      "original_filename": "file",
+      "api_key": "736358766387195"
+    }
+  },
+  "altText": "Summer jumpsuit",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640bb46e4c06c353bc24cf3f"
+  },
+  "image": {
+    "id": {
+      "$oid": "640bb46c4c06c353bc24cf3e"
+    },
+    "filename": "laura-chouette-yPZQAzuySJk-unsplash.jpg",
+    "originalFilename": "laura-chouette-yPZQAzuySJk-unsplash.jpg",
+    "mimetype": "image/jpeg",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "3d591df4839617fc82dc6fbc2e2e2123",
+      "public_id": "chichifits/640bb46c4c06c353bc24cf3e",
+      "version": 1678488683,
+      "version_id": "496c80dee914480cd2c6c8de20d13623",
+      "signature": "8ccfecf90e857199ce15aa6231cc6ca45892e5a0",
+      "width": 3456,
+      "height": 4608,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2023-03-10T22:51:23Z",
+      "tags": [],
+      "bytes": 1673956,
+      "type": "upload",
+      "etag": "4415ba59e9302f1c67adccb1437c0736",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/dawha1f7x/image/upload/v1678488683/chichifits/640bb46c4c06c353bc24cf3e.jpg",
+      "secure_url": "https://res.cloudinary.com/dawha1f7x/image/upload/v1678488683/chichifits/640bb46c4c06c353bc24cf3e.jpg",
+      "folder": "chichifits",
+      "original_filename": "file",
+      "api_key": "736358766387195"
+    }
+  },
+  "altText": "Blue Jeans",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640bb4ad4c06c353bc24cf69"
+  },
+  "image": {
+    "id": {
+      "$oid": "640bb4ab4c06c353bc24cf68"
+    },
+    "filename": "ryan-plomp-jvoZ-Aux9aw-unsplash.jpg",
+    "originalFilename": "ryan-plomp-jvoZ-Aux9aw-unsplash.jpg",
+    "mimetype": "image/jpeg",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "24a7cf2dd1469b82fe1d5cd6d8647cd7",
+      "public_id": "chichifits/640bb4ab4c06c353bc24cf68",
+      "version": 1678488745,
+      "version_id": "6a30f96252443addd5591994c28293d3",
+      "signature": "a826bceb0cc74f14d18fbb6bb6caafc9cf226085",
+      "width": 4000,
+      "height": 6000,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2023-03-10T22:52:25Z",
+      "tags": [],
+      "bytes": 1337761,
+      "type": "upload",
+      "etag": "572a7693cff19c561994b66ef391ef79",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/dawha1f7x/image/upload/v1678488745/chichifits/640bb4ab4c06c353bc24cf68.jpg",
+      "secure_url": "https://res.cloudinary.com/dawha1f7x/image/upload/v1678488745/chichifits/640bb4ab4c06c353bc24cf68.jpg",
+      "folder": "chichifits",
+      "original_filename": "file",
+      "api_key": "736358766387195"
+    }
+  },
+  "altText": "Rainbow Sneakers",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640bb4e54c06c353bc24cf94"
+  },
+  "image": {
+    "id": {
+      "$oid": "640bb4e04c06c353bc24cf93"
+    },
+    "filename": "tobias-tullius-Fg15LdqpWrs-unsplash.jpg",
+    "originalFilename": "tobias-tullius-Fg15LdqpWrs-unsplash.jpg",
+    "mimetype": "image/jpeg",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "e4bb992da4e61a72a7185a70f9fc20cd",
+      "public_id": "chichifits/640bb4e04c06c353bc24cf93",
+      "version": 1678488801,
+      "version_id": "8d7290b99796db44be041a80f51fd52c",
+      "signature": "4e53d93275c0fd7d2fbac30da89b92692730e54a",
+      "width": 3604,
+      "height": 4805,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2023-03-10T22:53:21Z",
+      "tags": [],
+      "bytes": 4979197,
+      "type": "upload",
+      "etag": "7c98c53abe273db7cea0cb8e96b16b65",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/dawha1f7x/image/upload/v1678488801/chichifits/640bb4e04c06c353bc24cf93.jpg",
+      "secure_url": "https://res.cloudinary.com/dawha1f7x/image/upload/v1678488801/chichifits/640bb4e04c06c353bc24cf93.jpg",
+      "folder": "chichifits",
+      "original_filename": "file",
+      "api_key": "736358766387195"
+    }
+  },
+  "altText": "Brown coat",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640bb51f4c06c353bc24cfd1"
+  },
+  "image": {
+    "id": {
+      "$oid": "640bb5194c06c353bc24cfd0"
+    },
+    "filename": "mediamodifier-7cERndkOyDw-unsplash.jpg",
+    "originalFilename": "mediamodifier-7cERndkOyDw-unsplash.jpg",
+    "mimetype": "image/jpeg",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "79dd96af66fae381beca560897af9749",
+      "public_id": "chichifits/640bb5194c06c353bc24cfd0",
+      "version": 1678488859,
+      "version_id": "af79385d98af11359fa7a0aebee907ad",
+      "signature": "19a9fd88bb154f6f34b916aa942a1859977e5e86",
+      "width": 5536,
+      "height": 4160,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2023-03-10T22:54:19Z",
+      "tags": [],
+      "bytes": 2568675,
+      "type": "upload",
+      "etag": "cb369f3bb327982b2cb23487f7adecf7",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/dawha1f7x/image/upload/v1678488859/chichifits/640bb5194c06c353bc24cfd0.jpg",
+      "secure_url": "https://res.cloudinary.com/dawha1f7x/image/upload/v1678488859/chichifits/640bb5194c06c353bc24cfd0.jpg",
+      "folder": "chichifits",
+      "original_filename": "file",
+      "api_key": "736358766387195"
+    }
+  },
+  "altText": "White Sweater",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640bb57a4c06c353bc24cffe"
+  },
+  "image": {
+    "id": {
+      "$oid": "640bb5774c06c353bc24cffd"
+    },
+    "filename": "alex-quezada-qAyOt0aGsCo-unsplash.jpg",
+    "originalFilename": "alex-quezada-qAyOt0aGsCo-unsplash.jpg",
+    "mimetype": "image/jpeg",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "1a751ee317f289728ab6cf6643dd5884",
+      "public_id": "chichifits/640bb5774c06c353bc24cffd",
+      "version": 1678488950,
+      "version_id": "57a708eaeb0d60ef673a172177851b19",
+      "signature": "2b26f6d96b28cbd19ef622351005a59931afb68f",
+      "width": 3945,
+      "height": 5917,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2023-03-10T22:55:50Z",
+      "tags": [],
+      "bytes": 2684219,
+      "type": "upload",
+      "etag": "1de10e9b9461941c1da695bbea936314",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/dawha1f7x/image/upload/v1678488950/chichifits/640bb5774c06c353bc24cffd.jpg",
+      "secure_url": "https://res.cloudinary.com/dawha1f7x/image/upload/v1678488950/chichifits/640bb5774c06c353bc24cffd.jpg",
+      "folder": "chichifits",
+      "original_filename": "file",
+      "api_key": "736358766387195"
+    }
+  },
+  "altText": "Beige Shoes",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640bb5b84c06c353bc24d02c"
+  },
+  "image": {
+    "id": {
+      "$oid": "640bb5b64c06c353bc24d02b"
+    },
+    "filename": "mohammad-metri-E-0ON3VGrBc-unsplash.jpg",
+    "originalFilename": "mohammad-metri-E-0ON3VGrBc-unsplash.jpg",
+    "mimetype": "image/jpeg",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "b53bc71a7a12e1ff33528f52f74726e0",
+      "public_id": "chichifits/640bb5b64c06c353bc24d02b",
+      "version": 1678489012,
+      "version_id": "257b58bfdd1c2244298e68912a68dbbf",
+      "signature": "cf0a74792bbfe37056b0bc456af6d49241ffa775",
+      "width": 4912,
+      "height": 4912,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2023-03-10T22:56:52Z",
+      "tags": [],
+      "bytes": 1299263,
+      "type": "upload",
+      "etag": "b84038fc664e84123170a45cf1204485",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/dawha1f7x/image/upload/v1678489012/chichifits/640bb5b64c06c353bc24d02b.jpg",
+      "secure_url": "https://res.cloudinary.com/dawha1f7x/image/upload/v1678489012/chichifits/640bb5b64c06c353bc24d02b.jpg",
+      "folder": "chichifits",
+      "original_filename": "file",
+      "api_key": "736358766387195"
+    }
+  },
+  "altText": "Flowered heels",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640bb5fb4c06c353bc24d06d"
+  },
+  "image": {
+    "id": {
+      "$oid": "640bb5f64c06c353bc24d06c"
+    },
+    "filename": "engin-akyurt-Hd4nlxLgIbA-unsplash.jpg",
+    "originalFilename": "engin-akyurt-Hd4nlxLgIbA-unsplash.jpg",
+    "mimetype": "image/jpeg",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "0fd5bf1f1bd2a7ae4632c952fe088184",
+      "public_id": "chichifits/640bb5f64c06c353bc24d06c",
+      "version": 1678489079,
+      "version_id": "1d35664df2f76c999645831e32f8fd19",
+      "signature": "e8b336a003c23e9b8282cb23df394361036f554a",
+      "width": 6720,
+      "height": 4480,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2023-03-10T22:57:59Z",
+      "tags": [],
+      "bytes": 4494474,
+      "type": "upload",
+      "etag": "ce6ce7bbf3f8d6656161959fe2cfeddd",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/dawha1f7x/image/upload/v1678489079/chichifits/640bb5f64c06c353bc24d06c.jpg",
+      "secure_url": "https://res.cloudinary.com/dawha1f7x/image/upload/v1678489079/chichifits/640bb5f64c06c353bc24d06c.jpg",
+      "folder": "chichifits",
+      "original_filename": "file",
+      "api_key": "736358766387195"
+    }
+  },
+  "altText": "Jeans Shorts",
+  "__v": 0
+}]

@@ -39,11 +39,11 @@ export default withAuth(
     db: {
       adapter: 'mongoose',
       url: databaseURL,
-      async onConnect(keystone) {
+      onConnect(keystone) {
         console.log('Connection');
-        if (process.argv.includes('--seed-data')) {
-          await insertSeedData(keystone);
-        }
+        // if (process.argv.includes('--seed-data')) {
+        //   await insertSeedData(keystone);
+        // }
       },
     },
     lists: createSchema({
