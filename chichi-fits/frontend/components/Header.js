@@ -3,12 +3,11 @@ import styled from 'styled-components';
 import Nav from './Nav';
 
 const Logo = styled.h1`
-  background: rgb(2, 73, 89);
+  background: rgb(226, 68, 126);
   background: linear-gradient(
-    0deg,
-    rgba(2, 73, 89, 1) 0%,
-    rgba(2, 103, 115, 1) 50%,
-    rgba(60, 166, 166, 1) 100%
+    60deg,
+    rgba(226, 68, 126, 1) 0%,
+    rgba(191, 15, 48, 1) 100%
   );
   font-size: 4rem;
   margin-left: 2rem;
@@ -29,7 +28,7 @@ const HeaderStyles = styled.header`
     display: grid;
     grid-template-columns: auto 1fr;
     justify-content: space-between;
-    align-items: center;
+    align-items: stretch;
   }
 
   .sub-bar {
@@ -45,11 +44,11 @@ export default function Header() {
         <Logo>
           <Link href="/">Chichi Fits</Link>
         </Logo>
+        <Nav />
       </div>
       <div className="sub-bar">
         <p>Search</p>
       </div>
-      <Nav />
     </HeaderStyles>
   );
 }

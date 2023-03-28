@@ -6,12 +6,14 @@ const GlobalStyles = createGlobalStyle`
 @font-face{
   font-family: 'radnika_next';
   src: url('/static/radnikanext-medium-webfont.woff2');
-  format('woff2');
+  format:('woff2');
   font-weight: normal;
   font-style: normal;
 }
 html{
   --red: #ff0000;
+  --magenta: #BF0F30;
+  --pink: #D92567;
   --black: #393939;
   --grey: #3a3a3a;
   --gray: var(--grey);
@@ -19,8 +21,9 @@ html{
   --lightGray: var(--lightGrey);
   --offWhite: #ededed;
   --maxWidth: 1000px;
-  --bs: 0 12px 24px 0 rgba(0,0,0,0.9);
+  --bs: 0 12px 24px 0 rgba(0,0,0,0.5);
   box-sizing: border-box;
+  font-size: 62.5%;
 }
 *, *::before, *:after{
   box-sizing: inherit;
@@ -48,7 +51,6 @@ button {
 const InnerStyles = styled.div`
   max-width: var(--maxWidth);
   margin: 0 auto;
-  padding: 2rem;
 `;
 
 export default function Page({ children }) {
